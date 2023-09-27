@@ -87,7 +87,7 @@ As the game launches in full-screen mode by default, to exit more easily, simply
 You can use cheat codes to perform certain actions. To use them, go to the game's "settings" menu, and place your cursor on the "back" button without clicking. Then execute the key combination you're interested in.
 
 > [!WARNING]
-> Please note! Your progress may be compromised if you use a cheat code. Use at your own risk.
+> Please note that your progress may be compromised if you use a cheat code. Use at your own risk.
 
 - **H + T + Up Arrow:** set player's trophy count to maximum (38,000)
 - **H + T + Down arrow:** set player's trophy count to 0

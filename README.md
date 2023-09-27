@@ -10,7 +10,7 @@ Minecraft Survival is my very first video game, which I made from scratch. It's 
 
 <br>
 
-The main aim is to collect maps. There are two types: mobs and potions. All cards have a rarity ranging from "common" to "legendary".
+<img src="https://github.com/maxencebonamy/Minecraft-Survival/blob/main/assets/images/attribute/rarity.png" height="24px" align="top">The main aim is to collect cards. There are two types: mobs and potions. All cards have a rarity ranging from "common" to "legendary".
 
 Before starting a game, you can select a mob and an effect from all those in your collection. Of course, each mob and effect has its own special features, which you can discover as you play. You can also select the difficulty of the game, from "peaceful" to "hardcore".
 
@@ -26,7 +26,7 @@ You'll have several waves like this. As you progress through the waves, you'll e
 
 <br>
 
-If you manage to beat the dragon, you've won the game, and will be awarded trophies and emeralds. With these emeralds, you'll be able to open chests, and who knows, maybe unlock a new map. Otherwise, you'll simply upgrade the cards you already own, up to level 10.
+If you manage to beat the dragon, you've won the game, and will be awarded trophies and emeralds. With these emeralds, you'll be able to open chests, and who knows, maybe unlock a new card. Otherwise, you'll simply upgrade the cards you already own, up to level 10.
 
 Try out the game by following the instructions below!
 

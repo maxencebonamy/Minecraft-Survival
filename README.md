@@ -46,9 +46,10 @@ Try out the game by following the instructions below!
 
 ### Run the program:
 
-*Prerequisites:*
-- [x] *Git must be installed on your computer. If not, <a href="https://git-scm.com/downloads" target="_blank">click here.</a>*
-- [x] *Python version 3.9 or greater must be installed on your computer, if not, <a href="https://xmake.io/#/getting_started?id=installation" target="_blank">click here.</a>*
+> [!INFO]
+> *Prerequisites:*
+> - [x] *Git must be installed on your computer. If not, <a href="https://git-scm.com/downloads" target="_blank">click here.</a>*
+> - [x] *Python version 3.9 or greater must be installed on your computer, if not, <a href="https://xmake.io/#/getting_started?id=installation" target="_blank">click here.</a>*
 <br>
 
 1. **Clone** the repository on your computer. To do this, open a terminal in the folder of your choice and run the following command:

@@ -12,7 +12,7 @@ Minecraft Survival is my very first video game, which I made from scratch. It's 
 
 <img src="https://github.com/maxencebonamy/Minecraft-Survival/blob/main/assets/images/attribute/rarity.png" height="24px" align="top"> The main aim is to collect cards. There are two types: mobs and potions. All cards have a rarity ranging from "common" to "legendary".
 
-<img src="https://github.com/maxencebonamy/Minecraft-Survival/blob/main/assets/images/attribute/damage.png" height="24px" align="top"> Before starting a game, you can select a mob and an effect from all those in your collection. Of course, each mob and effect has its own special features, which you can discover as you play. You can also select the difficulty of the game, from "peaceful" to "hardcore".
+<img src="https://github.com/maxencebonamy/Minecraft-Survival/blob/main/assets/images/potion.png" height="24px" align="top"> Before starting a game, you can select a mob and an effect from all those in your collection. Of course, each mob and effect has its own special features, which you can discover as you play. You can also select the difficulty of the game, from "peaceful" to "hardcore".
 
 <br>
 
@@ -22,7 +22,7 @@ Minecraft Survival is my very first video game, which I made from scratch. It's 
 
 <img src="https://github.com/maxencebonamy/Minecraft-Survival/blob/main/assets/images/item/diamond_sword.png" height="24px" align="top"> Once this collection phase is complete, the second phase can begin. This is a card-based battle. There are two rows of cards: the top row represents the enemies, and the bottom row your player (which corresponds to the mob you chose before starting the game). Each turn, you can perform several actions: move, use your effect, shoot an arrow, attack an enemy with your sword, eat a golden apple, etc. Enemies in front of you can also attack you, depending on their range and special features.
 
-<img src="https://github.com/maxencebonamy/Minecraft-Survival/blob/main/assets/images/mob/ender_dragon.png" height="24px" align="top"> You'll have several waves like this. As you progress through the waves, you'll eventually reach a boss. For example, at the end of the "overworld" waves, there will be the Elder guardian. Then the Wither at the end of the "nether" waves, and finally the Ender Dragon at the end of the "end" phase.
+<img src="https://github.com/maxencebonamy/Minecraft-Survival/blob/main/assets/images/item/bow.png" height="24px" align="top"> You'll have several waves like this. As you progress through the waves, you'll eventually reach a boss. For example, at the end of the "overworld" waves, there will be the Elder guardian. Then the Wither at the end of the "nether" waves, and finally the Ender Dragon at the end of the "end" phase.
 
 <br>
 

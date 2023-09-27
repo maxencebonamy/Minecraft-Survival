@@ -12,21 +12,21 @@ Minecraft Survival is my very first video game, which I made from scratch. It's 
 
 <img src="https://github.com/maxencebonamy/Minecraft-Survival/blob/main/assets/images/attribute/rarity.png" height="24px" align="top"> The main aim is to collect cards. There are two types: mobs and potions. All cards have a rarity ranging from "common" to "legendary".
 
-Before starting a game, you can select a mob and an effect from all those in your collection. Of course, each mob and effect has its own special features, which you can discover as you play. You can also select the difficulty of the game, from "peaceful" to "hardcore".
+<img src="https://github.com/maxencebonamy/Minecraft-Survival/blob/main/assets/images/attribute/damage.png" height="24px" align="top"> Before starting a game, you can select a mob and an effect from all those in your collection. Of course, each mob and effect has its own special features, which you can discover as you play. You can also select the difficulty of the game, from "peaceful" to "hardcore".
 
 <br>
 
-Once the game has started, the first phase begins. It's all about collecting resources. As soon as you press the button in the bottom right-hand corner, you'll be able to choose from 4 different items. This action can be performed a number of times, depending on the difficulty level chosen. You can then transform your items by making new ones. You can also enchant some objects and even improve their level with the anvil.
+<img src="https://github.com/maxencebonamy/Minecraft-Survival/blob/main/assets/images/item/crafting_table.png" height="24px" align="top"> Once the game has started, the first phase begins. It's all about collecting resources. As soon as you press the button in the bottom right-hand corner, you'll be able to choose from 4 different items. This action can be performed a number of times, depending on the difficulty level chosen. You can then transform your items by making new ones. You can also enchant some objects and even improve their level with the anvil.
 
 <br>
 
-Once this collection phase is complete, the second phase can begin. This is a card-based battle. There are two rows of cards: the top row represents the enemies, and the bottom row your player (which corresponds to the mob you chose before starting the game). Each turn, you can perform several actions: move, use your effect, shoot an arrow, attack an enemy with your sword, eat a golden apple, etc. Enemies in front of you can also attack you, depending on their range and special features.
+<img src="https://github.com/maxencebonamy/Minecraft-Survival/blob/main/assets/images/item/diamond_sword.png" height="24px" align="top"> Once this collection phase is complete, the second phase can begin. This is a card-based battle. There are two rows of cards: the top row represents the enemies, and the bottom row your player (which corresponds to the mob you chose before starting the game). Each turn, you can perform several actions: move, use your effect, shoot an arrow, attack an enemy with your sword, eat a golden apple, etc. Enemies in front of you can also attack you, depending on their range and special features.
 
-You'll have several waves like this. As you progress through the waves, you'll eventually reach a boss. For example, at the end of the "overworld" waves, there will be the Elder guardian. Then the Wither at the end of the "nether" waves, and finally the Ender Dragon at the end of the "end" phase.
+<img src="https://github.com/maxencebonamy/Minecraft-Survival/blob/main/assets/images/mob/ender_dragon.png" height="24px" align="top"> You'll have several waves like this. As you progress through the waves, you'll eventually reach a boss. For example, at the end of the "overworld" waves, there will be the Elder guardian. Then the Wither at the end of the "nether" waves, and finally the Ender Dragon at the end of the "end" phase.
 
 <br>
 
-If you manage to beat the dragon, you've won the game, and will be awarded trophies and emeralds. With these emeralds, you'll be able to open chests, and who knows, maybe unlock a new card. Otherwise, you'll simply upgrade the cards you already own, up to level 10.
+<img src="https://github.com/maxencebonamy/Minecraft-Survival/blob/main/assets/images/chest.png" height="24px" align="top"> If you manage to beat the dragon, you've won the game, and will be awarded trophies and emeralds. With these emeralds, you'll be able to open chests, and who knows, maybe unlock a new card. Otherwise, you'll simply upgrade the cards you already own, up to level 10.
 
 Try out the game by following the instructions below!
 

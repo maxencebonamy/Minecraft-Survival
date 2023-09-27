@@ -75,6 +75,8 @@ python main.py
 	<img src="https://github.com/maxencebonamy/maxencebonamy/blob/main/assets/3_Features.png" width="100%" alt="Features">
 </p>
 
+As the game launches in full-screen mode by default, to exit more easily, simply press the ESC key.
+
 ### Parameters that can be modified in the game :
 - Game language: English and French are available.
 - The number of frames per second: you can choose between 60 and 120.

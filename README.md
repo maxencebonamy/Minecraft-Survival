@@ -36,13 +36,13 @@ Try out the game by following the instructions below!
 	<img src="https://github.com/maxencebonamy/maxencebonamy/blob/main/assets/2_Get_Started.png" width="100%" alt="Get Started">
 </p>
 
-### Launch the software:
+### Launch the game:
 
 1. Click on the <a href="https://github.com/maxencebonamy/Minecraft-Survival/releases" target="_blank">Releases</a> button on the right and select the **latest version**.
 2. Download the **.zip** archive and extract the files.
 3. Run the **.exe** executable.
 
-### Compile:
+### Run the program:
 
 *Prerequisites :*
 - [ ] *Git must be installed on your computer. If not, <a href="https://git-scm.com/downloads" target="_blank">click here.</a>*
@@ -59,14 +59,37 @@ git clone https://github.com/maxencebonamy/Minecraft-Survival
 cd Minecraft-Survival
 ```
 
+3. Install dependencies by running this command:
+```
+python -m pip install -r requirements.txt
+```
+
+4. Start the program with the following command:
+```
+python main.py
+```
+
 <br>
 
 <p align="center">
 	<img src="https://github.com/maxencebonamy/maxencebonamy/blob/main/assets/3_Features.png" width="100%" alt="Features">
 </p>
 
-Parameters that can be modified in the game :
+### Parameters that can be modified in the game :
 - Game language: English and French are available.
 - The number of frames per second: you can choose between 60 and 120.
 - Music can be switched on or off.
 - Sound effects can be activated or deactivated.
+
+### Cheat codes :
+You can use cheat codes to perform certain actions. To use them, go to the game's "settings" menu, and place your cursor on the "back" button without clicking. Then execute the key combination you're interested in.
+
+> [!WARNING]
+> Please note! Your progress may be compromised if you use a cheat code. Use at your own risk.
+
+- **H + T + Up Arrow:** set player's trophy count to maximum (38,000)
+- **H + T + Down arrow:** set player's trophy count to 0
+- **H + E + Top arrow:** set number of emeralds to 10000
+- **H + E + Down arrow:** set number of emeralds to 0
+- **H + L + Top arrow:** unlock all cards by upgrading them all to maximum level (10)
+- **H + L + Up Arrow:** remove all unlocked cards (keeping one mob card and one effect card both at level 1, as when starting the game).

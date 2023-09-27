@@ -1,4 +1,6 @@
-![logo](https://user-images.githubusercontent.com/66129931/170821388-0382caf2-12ce-4a4d-a3ac-913deff8e4d9.png)
+<p align="center">
+	<img src="https://github.com/maxencebonamy/maxencebonamy/blob/main/assets/Minecraft_Survival.png" width="100%" alt="Sand Box">
+</p>
 
 https://github.com/maxencebonamy/Minecraft-Survival/assets/66129931/fa42b0a1-fdc1-46ff-9e51-dc26a2bd6e8e
 

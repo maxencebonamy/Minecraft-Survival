@@ -2,6 +2,8 @@
 
 https://github.com/maxencebonamy/Minecraft-Survival/assets/66129931/fa42b0a1-fdc1-46ff-9e51-dc26a2bd6e8e
 
+<br>
+
 <p align="center">
 	<img src="https://github.com/maxencebonamy/maxencebonamy/blob/main/assets/1_Description.png" width="100%" alt="Description">
 </p>

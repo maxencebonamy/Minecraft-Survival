@@ -77,13 +77,13 @@ python main.py
 
 As the game launches in full-screen mode by default, to exit more easily, simply press the ESC key.
 
-### Parameters that can be modified in the game :
+### Parameters that can be modified in the game:
 - **Game language:** English and French are available.
 - **The number of FPS (frames per second):** you can choose between 60 and 120.
 - **Music:** you can switched it on or off.
 - **Sound effects:** you can activate or deactivate them.
 
-### Cheat codes :
+### Cheat codes:
 You can use cheat codes to perform certain actions. To use them, go to the game's "settings" menu, and place your cursor on the "back" button without clicking. Then execute the key combination you're interested in.
 
 > [!WARNING]

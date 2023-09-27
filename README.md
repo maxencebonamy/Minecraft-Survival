@@ -10,7 +10,7 @@ Minecraft Survival is my very first video game, which I made from scratch. It's 
 
 <br>
 
-<img src="https://github.com/maxencebonamy/Minecraft-Survival/blob/main/assets/images/attribute/rarity.png" height="24px" align="top">The main aim is to collect cards. There are two types: mobs and potions. All cards have a rarity ranging from "common" to "legendary".
+<img src="https://github.com/maxencebonamy/Minecraft-Survival/blob/main/assets/images/attribute/rarity.png" height="24px" align="top"> The main aim is to collect cards. There are two types: mobs and potions. All cards have a rarity ranging from "common" to "legendary".
 
 Before starting a game, you can select a mob and an effect from all those in your collection. Of course, each mob and effect has its own special features, which you can discover as you play. You can also select the difficulty of the game, from "peaceful" to "hardcore".
 
@@ -45,8 +45,8 @@ Try out the game by following the instructions below!
 ### Run the program:
 
 *Prerequisites :*
-- [ ] *Git must be installed on your computer. If not, <a href="https://git-scm.com/downloads" target="_blank">click here.</a>*
-- [ ] *Python version 3.9 or greater must be installed on your computer, if not, <a href="https://xmake.io/#/getting_started?id=installation" target="_blank">click here.</a>*
+- [x] *Git must be installed on your computer. If not, <a href="https://git-scm.com/downloads" target="_blank">click here.</a>*
+- [x] *Python version 3.9 or greater must be installed on your computer, if not, <a href="https://xmake.io/#/getting_started?id=installation" target="_blank">click here.</a>*
 <br>
 
 1. **Clone** the repository on your computer. To do this, open a terminal in the folder of your choice and run the following command:

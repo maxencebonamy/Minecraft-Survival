@@ -46,7 +46,7 @@ Try out the game by following the instructions below!
 
 ### Run the program:
 
-> [!INFO]
+> [!NOTE]
 > *Prerequisites:*
 > - [x] *Git must be installed on your computer. If not, <a href="https://git-scm.com/downloads" target="_blank">click here.</a>*
 > - [x] *Python version 3.9 or greater must be installed on your computer, if not, <a href="https://xmake.io/#/getting_started?id=installation" target="_blank">click here.</a>*
